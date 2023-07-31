@@ -1,4 +1,4 @@
-![Radim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Radim296&show_icons=true&theme=transparent)
+![Radim's GitHub stats](https://readme-stats-gamma-vert.vercel.app/api?username=Radim296&show_icons=true&theme=transparent)
 
 <!--
 **Radim296/Radim296** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
