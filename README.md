@@ -1,4 +1,4 @@
-![Radim's GitHub stats](https://readme-stats-radim296.vercel.app/api?username=Radim296&show_icons=true&theme=transparent)
+Hi there 👋
 
 
 <!--
