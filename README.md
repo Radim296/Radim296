@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-<iframe height="100%" width="100%" id="geckoterminal-embed" title="GeckoTerminal Embed" src="https://www.geckoterminal.com/ton/pools/EQAjeq_aW_fSP7XqoF15ZZ7zUYiWLqv6UccN-jJlliomy-B3?embed=1&info=1&swaps=0" frameborder="0" allow="clipboard-write" allowfullscreen></iframe>
+
+<img
+    src="https://www.geckoterminal.com/ton/pools/EQAjeq_aW_fSP7XqoF15ZZ7zUYiWLqv6UccN-jJlliomy-B3?embed=1&info=1&swaps=0"
+    alt="Radim296"
+  />
 
 <p align="left">
   <img
