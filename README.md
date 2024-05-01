@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-
-<img
-    src="https://www.geckoterminal.com/ton/pools/EQAjeq_aW_fSP7XqoF15ZZ7zUYiWLqv6UccN-jJlliomy-B3?embed=1&info=1&swaps=0"
-    alt="Radim296"
-  />
-
 <p align="left">
   <img
     src="https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D18785%26project%3D%26in%3D0"
